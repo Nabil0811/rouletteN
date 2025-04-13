@@ -1,0 +1,281 @@
+body {
+    background-color: #0F6FA0;
+    text-align: center;
+}
+
+footer {
+    position:relative;
+    bottom:0;
+}
+
+img {
+    width: 8vw; min-width: 20px;
+}
+
+#sh {
+    color: #1B5470;
+    font-family: Snell Roundhand, cursive;
+}
+
+#fr {
+    width: 1.5vw; min-width: 20px;
+}
+
+#logo {
+    width: 42vw; min-width: 20px;
+}
+
+table, tr, td {
+    text-align: center;
+    margin-left : auto;
+    margin-top:20px;
+    margin-right: auto;
+}
+
+p {
+    color: #ACDBF3;
+    text-align: center;
+    font-family: Snell Roundhand, cursive;
+}
+
+#Serv, #S11, #Cont {
+    margin-left : auto;
+    margin-top:20px;
+    margin-right: auto;
+    display: block;
+    width: 1750px;
+    height: 980px;
+    background: #062F44;
+    opacity: 0.85;
+}
+
+h2 {
+    color: #ACDBF3;
+    font-family:Impact, fantasy;
+}
+
+h3 {
+    color: #6ECEFF;
+    font-family:OCR A Std, monospace;
+}
+
+nav{
+    margin-left : auto;
+    margin-right: auto;
+    width: 1895px;
+    height: 60px;
+    position:fixed;
+    background-color: #4690B6;
+    z-index: 1;
+}
+
+ul {
+    text-align: center;
+}
+
+a {
+    padding: 20px;
+    text-align: center;
+    color: #ACDBF3;
+    font-family: Jazz LET, fantasy;
+}
+
+#projet {
+    background-color: #1f5a69;
+}
+
+#GL {
+    background-color: #29627c;
+}
+
+#pl {
+    background-color: #58c0d3;
+}
+
+#PL {
+    background-color: #4695a3;
+}
+
+#ex {
+    margin-left : auto;
+    margin-top:20px;
+    margin-right: auto;
+    display: block;
+    width: 1750px;
+    height: 5000px;
+    background: #062F44;
+    opacity: 0.85;
+}
+
+#melange {
+    text-align: center;
+    width: 10vw;
+    height: 5vw;
+    background-color: #074d6d;
+    border-style:double;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: #6ECEFF;
+    font-family:OCR A Std, monospace;
+    font-size: 20px;
+}
+
+#melange:hover {
+    background-color: #6ECEFF;
+    color: white;
+    cursor: pointer;
+  }
+
+  #ale {
+    width: 7px;
+  }
+
+  #tire {
+    text-align: center;
+    color: rgb(1, 8, 19);
+    width: 15vw;
+    height: 7.5vw;
+    background-color: #074d6d;
+    border-style:dotted;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: #6ECEFF;
+    font-family:OCR A Std, monospace;
+    font-size: 20px;
+  }
+
+  #tire:hover {
+    text-align: center;
+    background-color: #6ECEFF;
+    color: white;
+  }
+
+  table {
+    background-color: #062F44;
+  }
+
+ 
+
+  tbody tr:nth-child(odd) {
+    background-color: #035551;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #126c7c;
+  }
+
+  tr, td {
+    color: #6ECEFF;
+    padding: 16px 30px;
+    text-align: center;
+  }
+
+  #page {
+    background-color: #062F44;
+  }
+
+  #note0 {
+    background-color: red;
+    width: 2vw;
+    height: 2vw;
+    border-style:hidden;
+    border-radius: 20px;
+  }
+
+  #note0:hover {
+    background-color: #570303;
+    color: white;
+    cursor: pointer;
+  }
+
+  #note1 {
+    background-color: rgb(255, 136, 0);
+    width: 2vw;
+    height: 2vw;
+    border-style:hidden;
+    border-radius: 20px;
+  }
+
+  #note1:hover {
+    background-color: #6b4704;
+    color: white;
+    cursor: pointer;
+  }
+
+  #note2 {
+    background-color: rgb(208, 243, 7);
+    width: 2vw;
+    height: 2vw;
+    border-style:hidden;
+    border-radius: 20px;
+  }
+
+  #note2:hover {
+    background-color: #565703;
+    color: white;
+    cursor: pointer;
+  }
+
+  #note3 {
+    background-color: rgb(51, 255, 0);
+    width: 2vw;
+    height: 2vw;
+    border-style:hidden;
+    border-radius: 20px;
+  }
+
+  #note3:hover {
+    background-color: #0a5703;
+    color: white;
+    cursor: pointer;
+  }
+
+  #abs {
+    background-color: rgb(138, 138, 138);
+    width: 4vw;
+    height: 2vw;
+    border-style:hidden;
+    border-radius: 20px;
+  }
+
+  #abs:hover {
+    background-color: #2b2b2b;
+    color: white;
+    cursor: pointer;
+  }
+
+  #reseter {
+    background-color: #e9820c;
+    font-family:OCR A Std, monospace;
+    text-align: center;
+    width: 12vw;
+    height: 2vw;
+    border-style:double;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: #3a2b02;
+  }
+
+  #reseter:hover {
+    background-color: #3a2b02;
+    color: white;
+    cursor: pointer;
+  }
+
+  #reseterTout {
+    background-color: #c40202;
+    font-family:OCR A Std, monospace;
+    text-align: center;
+    width: 12vw;
+    height: 2vw;
+    border-style:double;
+    border-radius: 20px;
+    border-width: 5px;
+    border-color: #550000;
+  }
+
+  #reseterTout:hover {
+    background-color: #550000;
+    color: white;
+    cursor: pointer;
+  }
